@@ -1,0 +1,33 @@
+body{
+    background-image: url("http://www.intrawallpaper.com/static/images/abstract-mosaic-background.png");
+}
+p{
+    color: red;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+div p{
+    color: blue;
+    font-size: 20px;
+}
+
+.class_test{
+    color: green;
+    font-size: 30px;
+}
+
+#id_test{
+    color: black;
+    font-size: 40px;
+}
+
+.hover_test:hover{
+    font-size: 50px;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: black;
+    color: pink;
+}

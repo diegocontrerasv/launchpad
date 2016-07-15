@@ -1,0 +1,15 @@
+#tbl{
+    color: white;
+    width:100%;
+    background-color: black;
+    text-align: left;
+}
+
+#tbl td,th{
+    border: 1px solid;
+}
+
+#td_edit{
+    background-color: blue;
+    color: orange;
+}

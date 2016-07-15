@@ -1,0 +1,33 @@
+div {   
+    width: 100px;           
+    border-radius: 5px;            
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin-right: 20px;
+}
+
+#div1{
+    background-color:#FF0000;
+}
+
+#div2{
+    background-color:#0000FF;
+}
+
+#div3{
+    background-color:#FFD700;
+
+}
+
+#div4{
+    background-color:#308014;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width:100%;
+    margin:0;
+    border-radius: 0;
+}
